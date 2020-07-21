@@ -1,3 +1,4 @@
->header
-ACGTACGTAAAAAA
-TTTAAAGGAAAAAA
+#id,sequence,speicies
+1,ACCGTAGCTAGCTG,Influenza
+2,ACGTACGTAAAAAA,Herpes
+3,TTTAAAGGAAAAAA,Epstein-barr

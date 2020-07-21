@@ -1,0 +1,17 @@
+[
+    {
+        "#id": "1",
+        "sequence": "ACCGTAGCTAGCTG",
+        "speicies": "Influenza"
+    },
+    {
+        "#id": "2",
+        "sequence": "ACGTACGTAAAAAA",
+        "speicies": "Herpes"
+    },
+    {
+        "#id": "3",
+        "sequence": "TTTAAAGGAAAAAA",
+        "speicies": "Epstein-barr"
+    }
+]
