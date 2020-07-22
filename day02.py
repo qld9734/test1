@@ -355,6 +355,7 @@ print(d)
 '''
 
 ## 30 ___ FASTQ class
+'''
 import sys
 class FASTQ:
     def __init__(self,file_name:str):
@@ -383,7 +384,7 @@ if __name__ == "__main__" :
     t = FASTQ(file_name)
     t.count_read_num()
     print(t.read_num)                
-
+'''
 
 
 
